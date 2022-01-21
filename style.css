@@ -1,0 +1,14 @@
+
+#cv-template
+{
+    display: none;
+}
+
+.background{
+    /* background-color: rgb(248, 194, 129); */
+    background-color: khaki;
+    /* color: rgb(114, 69, 9); */
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
